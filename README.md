@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aakashchhoker
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning React/React Native
+- 👀 I’m interested in Native Developement
+- 🌱 skill React/React Native
 - 📫 How to reach me => https://www.linkedin.com/in/aakash-chhoker-58388b186/
 
 <!---
